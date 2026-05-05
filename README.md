@@ -15,7 +15,7 @@ This is an offline-capable, static archive of the official SHELTER website. The 
 
 ## Why Does This Exist?
 
-The original site at `sheltertheanimation.com` has been offline for years. **SHELTER** — a 2016 animated short produced by Porter Robinson, Madeon, and A-1 Pictures — is a genuinely beautiful piece of art that deserved to be remembered. This archive exists so that the site doesn't disappear entirely from the internet.
+**SHELTER** — a 2016 animated short produced by Porter Robinson, Madeon, and A-1 Pictures — is a genuinely beautiful piece of art that deserved to be remembered. This archive exists so that the site doesn't disappear entirely from the internet.
 
 All credit goes to Porter Robinson, Madeon, A-1 Pictures, and everyone who worked on this project. This is purely a fan's attempt to keep a piece of internet history alive.
 
