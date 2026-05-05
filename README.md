@@ -11,7 +11,7 @@
 
 ---
 
-This is an offline-capable, static archive of the official SHELTER website. The original site has been offline for years — this is kept here purely as a personal memory archive.
+This is an offline-capable, static archive of the official SHELTER website. This is kept here purely as a personal memory archive.
 
 ## Why Does This Exist?
 
